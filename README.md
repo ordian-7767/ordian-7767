@@ -1,8 +1,9 @@
-# Hallo Semua 👋
+# Hello There 👋
 
-Perkenalkan nama saya **Muhammad Ordiansyah**.\
-Saya merupakan salah satu dari sekian banyaknya Siswa di [Dicoding](https://www.dicoding.com/).\
-Untuk saat ini Portofolio ini masih kosong dan saya harapkan dapat terisi seiring dengan proses belajar saya di [Dicoding](https://www.dicoding.com/) ini.
+🕺 My Name is **Muhammad Ordiansyah**.\
+👀 I’m interested in **Front-End & Back-End Web Developer** and also **Game Development**.\
+🌱 I’m currently a Participant in **MSIB Program** at [Dicoding](https://www.dicoding.com/).
+📫 How to reach me ? uhh... you can't.. yet.
 
 Have a Fantastic day, All!
 
